@@ -1,8 +1,20 @@
-#text-1 {
-    color: blue;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
-#text-2 {
-    color: gray;
-    font-weight: bold;
+img {
+    width: 100%;
+}
+.big_section {
+    border: 1px solid red;
+    width: 1920px;
+    height: 1080px;
+    background-color: aqua;
+}
+.main_section {
+    border: 1px solid yellow;
+    width: 1400px;
+    height: 1080px;
+    margin: 0 auto;
 }
