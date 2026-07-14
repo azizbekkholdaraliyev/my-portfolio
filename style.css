@@ -37,5 +37,12 @@ nav ul li  {
 .img_home {
     width: 500px;
     margin: 0 auto;
-    
+}
+.text-color_1 {
+    color: #94a3b8;
+    font-size: 3rem;
+}
+.developer {
+    color: #10b981;
+    font-weight: bold;
 }
