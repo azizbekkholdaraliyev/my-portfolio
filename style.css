@@ -6,15 +6,36 @@
 img {
     width: 100%;
 }
+
+nav ul li  {
+    border: 1px solid black;
+    display: inline;
+    float: right;
+}
 .big_section {
     border: 1px solid red;
     width: 1920px;
-    height: 1080px;
-    background-color: aqua;
+    height: 932px;
+    background-color: #121316;
 }
 .main_section {
     border: 1px solid yellow;
-    width: 1400px;
-    height: 1080px;
+    width: 1600px;
+    height: 930px;
     margin: 0 auto;
+}
+.table_home {
+    border: 1px solid green;
+    float: right;
+    margin-top: 45px;
+}
+.td_home {
+    border: 1px solid red;
+    width: 800px;
+    height: 860px;
+}
+.img_home {
+    width: 500px;
+    margin: 0 auto;
+    
 }
