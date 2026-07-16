@@ -7,10 +7,28 @@ img {
     width: 100%;
 }
 
-nav ul li  {
-    border: 1px solid black;
-    display: inline;
+.navbar {
+    width: 1600px;
+    height: 10px;
+}
+.navbar nav {
     float: right;
+}
+nav ul li  {
+    border: 1px solid red;
+    display: inline;
+    margin-right: 30px;
+    padding: 5px;
+    background-color: rgb(83, 83, 83);
+    border-radius: 20px;
+
+    
+}
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 20px;
 }
 .big_section {
     border: 1px solid red;
