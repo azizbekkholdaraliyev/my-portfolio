@@ -21,14 +21,13 @@ nav ul li  {
     padding: 5px;
     background-color: rgb(83, 83, 83);
     border-radius: 20px;
-
+    
     
 }
 nav ul li a {
     color: #fff;
     text-decoration: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    margin-top: 20px;
 }
 .big_section {
     border: 1px solid red;
@@ -63,4 +62,10 @@ nav ul li a {
 .developer {
     color: #10b981;
     font-weight: bold;
+    font-family: sans-serif;
+    font-weight:900;
+    text-decoration:underline;
+}
+.developer:hover {
+    color: white;
 }
